@@ -6,6 +6,7 @@ public class main {
         //Ёу
         System.out.println("Misha krutoi");
         System.out.println("Misha ne krutoi");
+        //eeeeee
     }
 }
 /*
